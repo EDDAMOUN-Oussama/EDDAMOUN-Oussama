@@ -96,8 +96,7 @@ Improve through iteration
 ## Connect
 
 - GitHub: [@EDDAMOUN-Oussama](https://github.com/EDDAMOUN-Oussama)
-- LinkedIn: Add your LinkedIn URL here
-- Portfolio: Add your portfolio URL here
+- LinkedIn: https://www.linkedin.com/in/%D8%A3%D8%B3%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AF%D8%A7%D9%85%D9%88%D9%86-a1984933b/
 
 ---
 
